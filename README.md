@@ -1,0 +1,2 @@
+# Guacamole-verboso
+Guacamole
